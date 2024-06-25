@@ -1,8 +1,5 @@
+# Author: Manpreet Bagga
 # Build ECommerce Shopping Cart by React & Redux 2020 Edition
-
-Demo: https://reactredux-shoppingcart.herokuapp.com/
-
-[Get 90% Discount On This Course At Udemy](https://codingwithbasir.com/udemy-shopping-cart)
 
 ## What you’ll learn
 
